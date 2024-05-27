@@ -37,4 +37,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TranQuangHien2002)
 
-![Animated Dog]([https://media.giphy.com/media/ZCcHxj7O3Qk1u/giphy.gif](https://giphy.com/gifs/cute-doraemon-MWqc0k2qiD1As))
+![Animated Dog]([https://media.giphy.com/media/ZCcHxj7O3Qk1u/giphy.gif])
