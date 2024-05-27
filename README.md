@@ -12,3 +12,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuangHien2002&layout=compact&theme=dark)
 
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_TranQuangHien2002&theme=dark)
+
