@@ -1,8 +1,6 @@
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="300"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuangHien2002&layout=compact&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranQuangHien2002&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuangHien2002&layout=compact&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TranQuangHien2002)
 
