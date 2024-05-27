@@ -12,4 +12,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuangHien2002&layout=compact&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranQuangHien2002&count_private=true&include_all_commits=true)
