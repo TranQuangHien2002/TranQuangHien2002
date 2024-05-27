@@ -1,3 +1,13 @@
+![Animated Dog](https://media.giphy.com/media/ZCcHxj7O3Qk1u/giphy.gif)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranQuangHien2002&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuangHien2002&layout=compact&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=TranQuangHien2002)
+
+
 ### Programming language
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -31,10 +41,4 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranQuangHien2002&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuangHien2002&layout=compact&theme=dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=TranQuangHien2002)
-
-![Animated Dog](https://media.giphy.com/media/ZCcHxj7O3Qk1u/giphy.gif)
