@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="400"> <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuangHien2002&layout=compact&theme=dark)
+<img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="600" height="200"> <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuangHien2002&layout=compact&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranQuangHien2002&show_icons=true&theme=dark)
 
