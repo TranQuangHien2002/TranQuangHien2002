@@ -3,4 +3,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuangHien2002&layout=compact&theme=dark)
 
-![Animated Dog](https://imgur.com/gallery/uAgXaEb)
+![Animated Dog]([https://imgur.com/gallery/uAgXaEb](https://imgur.com/gallery/UCRQCAA))
