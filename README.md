@@ -12,4 +12,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuangHien2002&layout=compact&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TranQuangHien2002&count_private=true&include_all_commits=true)
+![Animated Dog](https://user-images.githubusercontent.com/TranQuangHien2002/path_to_your_dog_gif.gif)
+
